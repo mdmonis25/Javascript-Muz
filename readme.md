@@ -24,4 +24,5 @@ z
 
 4. Palindrome Check String 
 
-4. Palindrome Check Number 
+
+5. Sort a string //bcad
