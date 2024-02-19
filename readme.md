@@ -24,5 +24,9 @@ z
 
 4. Palindrome Check String 
 
+5. Sort a string //bcad - abcd
 
-5. Sort a string //bcad
+6. Maximum and Minimum Number in Array ?
+
+7. Duplicate an Array & How to empty an array ?
+
