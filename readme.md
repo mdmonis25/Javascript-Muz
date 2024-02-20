@@ -30,3 +30,5 @@ z
 
 7. Duplicate an Array & How to empty an array ?
 
+8. Reversing a Number without converting it to string
+
