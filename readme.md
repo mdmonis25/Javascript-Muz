@@ -32,3 +32,9 @@ z
 
 8. Reversing a Number without converting it to string
 
+9. FizzBuzz Array, Takes a number as input and returns an array, In this array
+If number is divisible by 3, replace it with Fizz,
+If a number is divisible by 5, replace it with Buzz,
+If a number is divisible by both, replace it with FizzBuzz
+Else it should be simple number 
+
