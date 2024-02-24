@@ -38,3 +38,22 @@ If a number is divisible by 5, replace it with Buzz,
 If a number is divisible by both, replace it with FizzBuzz
 Else it should be simple number 
 
+10. Array Intersection problem,
+Take 2 Arrays as input and return a Array which has common element from previous arrays
+input - [1,2,3,4,5],[2,5,7,8,9]
+output - [2,5]
+
+11. Remove duplicates in array
+input - [1,2,3,"hello",3,2,"hello"]
+output - [1,2,3,"hello"]
+
+12. Display Dislikes
+input - [] // no one likes this
+input - ["monis"] // monis likes this
+input - ["monis","kunal"] // monis and kunal likes this
+input - ["monis","Anurag","Gajendra"] // monis, Anurag and Gajendra likes this
+input - ["monis","kunal","Anurag","Amit","Gajendra"] // monis. kunal and 3 others likes this
+
+13. Display Missing Number
+input - [1,2,3,4,6,7] // 5
+input - [9,8,7,5,4,3,2,1] // 6
