@@ -47,13 +47,13 @@ output - [2,5]
 input - [1,2,3,"hello",3,2,"hello"]
 output - [1,2,3,"hello"]
 
-12. Display Dislikes
+12. Display Likes
 input - [] // no one likes this
 input - ["monis"] // monis likes this
 input - ["monis","kunal"] // monis and kunal likes this
 input - ["monis","Anurag","Gajendra"] // monis, Anurag and Gajendra likes this
 input - ["monis","kunal","Anurag","Amit","Gajendra"] // monis. kunal and 3 others likes this
 
-13. Display Missing Number
+13. Display Missing Number (From 1 to n, consecutive numbers) where n is the last number
 input - [1,2,3,4,6,7] // 5
 input - [9,8,7,5,4,3,2,1] // 6
