@@ -57,3 +57,9 @@ input - ["monis","kunal","Anurag","Amit","Gajendra"] // monis. kunal and 3 other
 13. Display Missing Number (From 1 to n, consecutive numbers) where n is the last number
 input - [1,2,3,4,6,7] // 5
 input - [9,8,7,5,4,3,2,1] // 6
+
+14. Reverse Each Word in string :-
+input -  javascript muz is a cool playlist
+output - tpircsavaj zum si a looc tsilyalp
+
+
