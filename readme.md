@@ -62,4 +62,8 @@ input - [9,8,7,5,4,3,2,1] // 6
 input -  javascript muz is a cool playlist
 output - tpircsavaj zum si a looc tsilyalp
 
+15. Capitalize first letter of each word in string :-
+input - i love kaju katli
+output - I Love Kaju Katli
+
 
