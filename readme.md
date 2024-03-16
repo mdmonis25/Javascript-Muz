@@ -66,4 +66,8 @@ output - tpircsavaj zum si a looc tsilyalp
 input - i love kaju katli
 output - I Love Kaju Katli
 
+16. return first n elements of array
+
+17. return last n elements of array
+
 
