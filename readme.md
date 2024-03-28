@@ -70,4 +70,6 @@ output - I Love Kaju Katli
 
 17. return last n elements of array
 
+18. Sum of all elemets in array
+
 
